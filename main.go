@@ -27,6 +27,7 @@ type Order struct {
 	Items        []Item    `json:"items"`
 }
 
+// Use this if you want to generate body with examples
 // // Order represents the model for an order
 // type Order struct {
 // 	OrderID      string    `json:"orderId" example:"1"`
