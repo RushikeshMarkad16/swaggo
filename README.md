@@ -16,7 +16,7 @@ Swag init -g <filename> : if annotations are not in main </br>
 swag init --outputTypes go,yaml : to generate specific files (here only go and yaml files will be generated) </br>
 
 
-Run the server and you can see docs at http://localhost:8080/swagger/index.html#/ </br>
+Run the server and you can see docs at http://localhost:8080/swagger/index.html#/ (change port no accordingly) </br>
 OR </br>
 Copy paste the contents of generated docs/swagger.json file in https://editor.swagger.io/ 
 
