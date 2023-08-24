@@ -8,7 +8,7 @@ go install github.com/swaggo/swag/cmd/swag@latest </br>
 
 go get -u github.com/swaggo/swag/cmd/swag </br>
 go get -u github.com/swaggo/http-swagger </br>
-go get -u github.com/alecthomas/template </br>
+go get -u github.com/alecthomas/template (optional) //only required to generate docs.go</br>
 
 ### Generate docs:
 swag init : generates go,yaml,json files </br>
